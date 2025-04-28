@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#D32F2F"             # červená akcent (např. tlačítka)
+backgroundColor = "#FAFAFA"          # světle šedé pozadí stránky
+secondaryBackgroundColor = "#EEEEEE" # světlejší šedé pozadí sidebaru
+textColor = "#212121"                # tmavě šedý text
+font = "sans serif"                  # nebo "monospace", "serif"
